@@ -1,0 +1,17 @@
+@font-face{
+    font-family:'Kiwi Maru';
+    src:url(../fonts/kiwimaru/KiwiMaru-Medium.eot)format('eot'),
+        url(../fonts/kiwimaru/KiwiMaru-Medium.woff2)format('woff2'),
+        url(../fonts/kiwimaru/KiwiMaru-Medium.woff)format('woff'),
+        url(../fonts/kiwimaru/KiwiMaru-Medium.ttf)format('truetype'),
+        url(../fonts/kiwimaru/KiwiMaru-Medium.svg)format('svg')
+}
+@font-face{
+    font-family:'DM Serif Display';
+    src:url(../fonts/dmserif/DMSerifDisplay-Regular.eot)format('eot'),
+        url(../fonts/dmserif/DMSerifDisplay-Regular.woff2)format('woff2'),
+        url(../fonts/dmserif/DMSerifDisplay-Regular.woff)format('woff'),
+        url(../fonts/dmserif/DMSerifDisplay-Regular.ttf)format('truetype'),
+        url(../fonts/dmserif/DMSerifDisplay-Regular.svg)format('svg')
+
+}

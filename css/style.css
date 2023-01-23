@@ -170,7 +170,7 @@
     transition: color 0.3s ease-out;
   }
   .project:hover{
-    color:#570220;
+    projects-grif-color: #ffdeea;
     transform: translateY(8px);
   }
   .project-image {

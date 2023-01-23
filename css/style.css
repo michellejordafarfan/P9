@@ -102,6 +102,9 @@ img {
 .nav-list a:hover {
   background: var(--main-blue);
 }
+
+/*main*/
+
 .MINOMBRE {
   display: flex;
   flex-direction: column;
@@ -121,6 +124,9 @@ img {
   font-weight: 200;
   color: var(--main-red);
 }
+
+/*seccion proyectos*/
+
 .projects-section {
   text-align: center;
   padding: 15rem 2rem;
@@ -210,6 +216,7 @@ img {
   }
 }
 
+/*interactividad botones de contactos*/
 .btn {
   display: inline-block;
   padding: 1rem 2rem;

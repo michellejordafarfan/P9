@@ -1,4 +1,4 @@
-/* Custom properties/variables  */
+/* Responsive  */
 :root {
     --main-white:#1e0f38;
     --main-red:#FFCBD2;
@@ -6,13 +6,13 @@
     --main-gray: #FF677B;
   }
   
-  /* Base reset */
+  /* base */
   * {
     margin: 0;
     padding: 0;
   }
   
-  /* box-sizing and font sizing */
+  /* fonts */
   *,
   *::before,
   *::after {
@@ -236,6 +236,7 @@
     height: 80vh;
     padding: 0 2rem;
     background: var(--main-gray);
+    border-top: 4px solid var(--main-red);
   }
   .contact-section-header > h2 {
     font-size: 6rem;
@@ -272,7 +273,6 @@
     justify-content: space-evenly;
     padding: 2rem;
     background: var(--main-gray);
-    border-top: 4px solid var(--main-red);
   }
   footer > p {
     margin: 2rem;
